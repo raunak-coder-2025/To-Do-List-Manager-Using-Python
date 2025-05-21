@@ -48,3 +48,15 @@ choices:
 ---
 
 ## Screenshot
+![Screenshot](screenshot.jpg)
+
+---
+
+## Author
+**Raunak Raj**  
+[GitHub Profile](https://github.com/raunak-coder-2025)
+
+---
+
+## License
+This project is open-source and free to use under the [MIT License](LICENSE).
